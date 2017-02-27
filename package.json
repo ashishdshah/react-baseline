@@ -1,5 +1,5 @@
 {
-  "name": "routed-react",
+  "name": "react-baseline",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
@@ -13,9 +13,12 @@
     "classnames": "^2.2.5",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
+    "mz": "^2.6.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
-    "react-router": "^2.6.1"
+    "react-router": "^2.6.1",
+    "supertest": "^3.0.0",
+    "supertest-as-promised": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
